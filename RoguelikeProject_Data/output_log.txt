@@ -1,0 +1,51 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.227 seconds
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\文件\作品集\RoguelikeProject\RoguelikeProject_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.667800 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.408500 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 772.
+Total: 0.260100 ms (FindLiveObjects: 0.034500 ms CreateObjectMapping: 0.027300 ms MarkObjects: 0.188900 ms  DeleteObjects: 0.004700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.466000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 776.
+Total: 0.246600 ms (FindLiveObjects: 0.031100 ms CreateObjectMapping: 0.019200 ms MarkObjects: 0.192100 ms  DeleteObjects: 0.003300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.715700 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 799.
+Total: 0.275900 ms (FindLiveObjects: 0.064500 ms CreateObjectMapping: 0.019500 ms MarkObjects: 0.187300 ms  DeleteObjects: 0.003900 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2ef0 -> priority: 1 
+  Thread -> id: 1478 -> priority: 1 
